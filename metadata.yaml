@@ -1,0 +1,33 @@
+_repo: Two-Sermons-Preached-in-the-Parish-Church-of-Nonington-Kent-January-17-1864-being-the-Sunday-__52272
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: James, Herbert
+    gutenberg_agent_id: '49221'
+    url: http://www.gutenberg.org/2009/agents/49221
+  - agent_name: Hoare, Edward
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '39940'
+    url: http://www.gutenberg.org/2009/agents/39940
+description: ''
+gutenberg_issued: '2016-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plumptre, John Pemberton, 1791-1864 -- Sermons'
+- !lcc 'BV'
+- !lcsh 'Sermons, English -- 19th century'
+- !lcsh 'Funeral sermons'
+- !lcsh 'Occasional sermons'
+- GITenberg
+title: 'Two Sermons Preached in the Parish Church of Nonington, Kent, January 17,
+  1864
+
+  being the Sunday following the Funeral of John Pemberton Plumptre, Esq.'
+url: http://www.gutenberg.org/ebooks/52272
