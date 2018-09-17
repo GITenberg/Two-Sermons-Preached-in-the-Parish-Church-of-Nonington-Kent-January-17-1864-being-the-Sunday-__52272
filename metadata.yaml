@@ -1,5 +1,8 @@
 _repo: Two-Sermons-Preached-in-the-Parish-Church-of-Nonington-Kent-January-17-1864-being-the-Sunday-__52272
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: James, Herbert
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '39940'
     url: http://www.gutenberg.org/2009/agents/39940
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52272#Two-Sermons-Preached-in-the-Parish-Church-of-Nonington-Kent-January-17-1864-being-the-Sunday-_
 gutenberg_issued: '2016-06-08'
 gutenberg_type: Text
 identifiers:
